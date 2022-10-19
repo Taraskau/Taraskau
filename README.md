@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Taraskau
-- 👀 I’m interested in game design
+- 👀 I’m interested in JS, React
 - 🌱 I’m currently learning C# (unity) and blueprints(UE4)
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me @taraaskau instagramm
